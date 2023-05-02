@@ -1,0 +1,3 @@
+# generated while execscript.sh is executed
+rootfs
+initramfs.gz
